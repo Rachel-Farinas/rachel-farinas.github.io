@@ -1,2 +1,2 @@
-Algorithmic Art Portfolio
+#Algorithmic Art Portfolio
 A repo for my Processing and p5.js projects. 
