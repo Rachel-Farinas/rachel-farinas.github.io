@@ -9,13 +9,13 @@ float t;
 float d = 8;
 
 void setup(){
-  background(228, 51, 51); 
+  background(0, 0, 0); 
   size(1200, 1200);
   }
   
 void draw(){
 
-  background(228, 51, 51); // clears the window with each iteration
+  background(0, 0, 0); // clears the window with each iteration
   translate(width/2, height/2);
   
   beginShape();
