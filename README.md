@@ -1,3 +1,3 @@
-<h1>Algorithmic Art Portfolio</h1>
+<h1>2022 Code/Art Algorithmic Art Submission</h1>
 <br>
-<p>A repo for my Processing and p5.js projects.</p>
+<p>Rachel Farinas - 12th grade, School for Advanced Studies North in Miami, FL.</p>
