@@ -21,7 +21,7 @@ void draw(){
   beginShape();
   noFill();
   strokeWeight(3);
-  stroke(219, 227, 255 );
+  stroke(219, 227, 255);
   for(float theta = 1; theta < TWO_PI * d; theta += 0.003){
     
     float a = sin(t * 50) * 150;
