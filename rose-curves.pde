@@ -28,8 +28,8 @@ void draw(){
     
     // changes all the variables in the rose curve formula so that it changes each iteration
     float a = sin(t * 50) * 100;
-    float c = sin(t * 30) * 75;
-    float g = sin(t * 50) * 75;
+    float c = sin(t * 30) * 85;
+    float g = sin(t * 50) * 85;
     float i = sin(t * 2);
     float b = sin(t * 2) * 10;
     float m = sin(t + 2) * 10;
