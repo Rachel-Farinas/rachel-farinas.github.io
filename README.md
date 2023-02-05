@@ -1,3 +1,3 @@
 <h1>Algorithmic Art Piece</h1>
 <br>
-<p>Rachel Farinas</p>
+<p>Enter 'rachel-farinas.github.io' to view this project!</p>
