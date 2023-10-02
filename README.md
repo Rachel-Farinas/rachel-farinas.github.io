@@ -1,3 +1,3 @@
-<h1>Algorithmic Art Piece</h1>
+<h1>Programming Portfolio</h1>
 <br>
-<p>Enter 'rachel-farinas.github.io' in your search bar to view this project!</p>
+<p>Under construction! Portfolio to be added in October 2023.</p>
